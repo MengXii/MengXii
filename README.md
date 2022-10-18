@@ -1,5 +1,10 @@
-### Hi there 👋
+### MengXii 👋
+- 🔭 甘雨单推人
+- 🌱 xcpcer
+- 💬 写一点cpp
+- 😄 不好好写代码，就去搞说唱
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MengXii&count_private=true&show_icons=true)
+
 <!--
 **MengXii/MengXii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
